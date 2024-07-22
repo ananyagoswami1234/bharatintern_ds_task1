@@ -46,6 +46,7 @@ Evaluated several models:
    - Recall: Proportion of true positives out of actual positives.
    - F1 Score: Harmonic mean of precision and recall.
 3. Performance Results:
+
 | Model               | Accuracy | Precision | Recall  | F1 Score |
 |---------------------|----------|-----------|---------|----------|
 | Logistic Regression | 0.9704   | 0.9685    | 0.9982  | 0.9831   |
@@ -54,6 +55,7 @@ Evaluated several models:
 | Gradient Boosting   | 0.9538   | 0.9530    | 0.9956  | 0.9738   |
 | Naive Bayes         | 0.9805   | 0.9813    | 0.9964  | 0.9888   |
 | KNN                 | 0.8712   | 0.8703    | 1.0000  | 0.9307   |
+
 
 🔍 Analysis:
 - Naive Bayes: Best performance with highest accuracy (0.9805), precision (0.9813), recall (0.9964), and F1 score (0.9888).
