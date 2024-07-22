@@ -1,8 +1,4 @@
-# bharatintern_ds_task1
-
-Sure, here's a detailed LinkedIn caption for your SMS Classifier Project:
-
-
+# bharatintern_ds_task01
 
 🚀 Project Spotlight: SMS Classifier Using Machine Learning Techniques 🚀
 
